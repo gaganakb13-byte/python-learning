@@ -1,2 +1,3 @@
-# python-learning
-My DS/AI learning journey
+# python-learning journey
+Starting my DS/AI learning journey. Goal:Germany Masters 2029.
+Currently learning:Python basics
